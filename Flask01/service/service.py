@@ -28,7 +28,7 @@ class NotificationManager():
 
 
 notification_fields = {
-        'id': fields.integer,
+        'id': fields.Integer,
         'uri': fields.Url('notification_endpoint'),
         'message': fields.String,
         'ttl': fields.Integer,
