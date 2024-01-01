@@ -1,0 +1,7 @@
+# Virtual environment directories
+bin/
+include/
+lib64/
+lib/
+share/
+

@@ -1,9 +1,2 @@
-# Virtual environment directories
-bin/
-inculde/
-lib64/
-lib/
-share/
-
 # Cached file
 __pycache__/
